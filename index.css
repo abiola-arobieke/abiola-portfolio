@@ -1,0 +1,80 @@
+body {
+  font-family: sans-serif, 'Poppins';
+  box-sizing: border-box;
+  font-style: normal;
+  margin: 0;
+  background: url(./images/header-bg-img.svg) no-repeat;
+  background-size: 100% auto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  flex-wrap: nowrap;
+  width: 100%;
+  border: 1px solid red;
+}
+
+nav > img:first-child {
+  width: 105px;
+  height: auto;
+  align-self: center;
+}
+
+nav > img:last-child {
+  align-self: center;
+  width: 35px;
+  height: 25px;
+}
+
+.headline {
+  display: flex;
+  flex-direction: column;
+  margin: 0 5%;
+  padding-top: 25%;
+}
+
+.headline .title {
+  display: flex;
+  flex-direction: column;
+}
+
+.headline .title > div {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.headline .title > div:last-child {
+  width: 70%;
+}
+
+.headline > div > p > {
+  font-size: large;
+}
+
+.connect {
+  color: #7f8cff;
+}
+
+.connect .social {
+  display: flex;
+  margin-top: 5px;
+  align-items: center;
+  width: 50%;
+}
+
+.connect .social a {
+  flex: 1;
+}
+
+.social > a > img {
+  width: 20px;
+  height: 15px;
+}
+
+@media only screen and (max-width: 375px) {
+  .title > div {
+    font-size: xx-large;
+  }
+}

@@ -13,7 +13,6 @@ nav {
   margin-top: 5px;
   flex-wrap: nowrap;
   width: 100%;
-  border: 1px solid red;
 }
 
 nav > img:first-child {

@@ -43,7 +43,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Display of Hello Microverse with h1 tag **
+- **Portfolio header section for mobile screen**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,7 +106,7 @@ To see the content, open the index.html file in any browser of your choice
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Project Section**
+- [ ] **Projects Section**
 - [ ] **Contact Section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@700&display=swap');
+
+
 body {
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
   font-style: normal;
+  background-color: #E5E5E5;
 }
 
 .header-container {
   background: url(./images/header-bg-img.svg) no-repeat;
   background-size: 100% auto;
+  background-color: #fff;
+  border-radius: 0 0 0 50px;
 }
 
 nav {
-  padding: 5% 10%;
+  padding: 26px 24px;
 }
 
 nav > img:last-child {
@@ -21,7 +28,7 @@ nav > img:last-child {
 }
 
 #logo {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: 'Pacifico', cursive;
   word-spacing: 0;
   font-weight: bolder;
   font-size: 1.5rem;
@@ -31,8 +38,8 @@ nav > img:last-child {
 }
 
 .headline {
-  margin: 0 12%;
-  padding-top: 20%;
+  margin: 0 24px;
+  padding: 20% 0;
 }
 
 .headline .title > h1 {
@@ -71,6 +78,9 @@ nav > img:last-child {
 @media only screen and (max-width: 375px) {
   .title > h1 {
     font-size: xx-large;
+  }
+  .header-container {
+    background-position: top 40% left 50%;
   }
 }
 

@@ -16,7 +16,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -84,23 +83,14 @@ Change directory to the project folder
   cd Portfolio
 ```
 
--
-
-### Install
-
-Install this project with:
-
-### tests
-
-To see the content, open the index.html file in any browser of your choice
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
 
 👤 **Abiola Arobieke**
 
 - GitHub: [@abiola-arobieke](https://github.com/abiola-arobieke)
+- Linkedin: [abiola-arobieke](https://linkedin.com/in/abiola-arobieke)
+- Twitter: [@abiola_arobieke](https://twitter.com/abiola_arobieke)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
